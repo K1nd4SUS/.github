@@ -1,5 +1,7 @@
 # K!nd4SUS Guide
 
+Team CTF UNIMI, progetto in supporto a [Cyberchallenge](https://cyberchallenge.it)
+
 ## info gruppo e link utili
 
 Le comunicazioni avverranno principalmente attraverso il [canale telegram](https://t.me/+Rej8qbbkONMxZTdk), mentre i ritrovi e le competizioni sul [discord](https://discord.gg/6GTSrewn8y).
