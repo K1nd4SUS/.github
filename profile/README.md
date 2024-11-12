@@ -4,7 +4,7 @@ Team CTF UNIMI, progetto in supporto a [Cyberchallenge](https://cyberchallenge.i
 
 ## info gruppo e link utili
 
-Le comunicazioni avverranno attraverso il [canale News](https://t.me/k1nd4susCTF), mentre la chat nel [canale telegram](https://t.me/+Rej8qbbkONMxZTdk). Per i ritrovi e le competizioni ci troveremo su [discord](https://discord.gg/6GTSrewn8y).
+Le comunicazioni avverranno attraverso il [canale Telegram News](https://t.me/k1nd4susCTF), mentre la chat nel [canale telegram](https://t.me/+Rej8qbbkONMxZTdk). Per i ritrovi e le competizioni ci troveremo su [discord](https://discord.gg/6GTSrewn8y).
 
 ### Ritrovo settimanale
 
